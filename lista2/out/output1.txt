@@ -1,0 +1,72 @@
+Float16
+properValue:  -1.0065710700000004e-11
+properValue2: -0.004296343192495245
+
+~~~(x1, y1)~~~
+In   order sum: -Inf
+Difference: Inf
+Back order sum: Inf
+Difference: Inf
+From big values to small: NaN
+Difference: NaN
+From small values to big: NaN
+Difference: NaN
+
+~~~(x2, y2)~~~
+In   order sum: -Inf
+Difference: Inf
+Back order sum: Inf
+Difference: Inf
+From big values to small: NaN
+Difference: NaN
+From small values to big: NaN
+Difference: NaN
+
+Float32
+properValue:  -1.0065710700000004e-11
+properValue2: -0.004296343192495245
+
+~~~(x1, y1)~~~
+In   order sum: -0.12593332
+Difference: 0.12593331932014976
+Back order sum: -0.23105995
+Difference: 0.2310599535603002
+From big values to small: -0.25
+Difference: 0.2499999999899343
+From small values to big: -0.25
+Difference: 0.2499999999899343
+
+~~~(x2, y2)~~~
+In   order sum: -0.13022967
+Difference: 0.12593332363661394
+Back order sum: -0.23105995
+Difference: 0.22676361037787066
+From big values to small: -0.25
+Difference: 0.24570365680750475
+From small values to big: -0.25
+Difference: 0.24570365680750475
+
+Float64
+properValue:  -1.0065710700000004e-11
+properValue2: -0.004296343192495245
+
+~~~(x1, y1)~~~
+In   order sum: 1.0251881368296672e-10
+Difference: 1.1258452438296672e-10
+Back order sum: -1.5643308870494366e-10
+Difference: 1.4636737800494365e-10
+From big values to small: 0.0
+Difference: 1.0065710700000004e-11
+From small values to big: 0.0
+Difference: 1.0065710700000004e-11
+
+~~~(x2, y2)~~~
+In   order sum: -0.004296342739891585
+Difference: 4.526036594121319e-10
+Back order sum: -0.004296342998713953
+Difference: 1.9378129136049527e-10
+From big values to small: -0.004296342842280865
+Difference: 3.502143800654389e-10
+From small values to big: -0.004296342842280865
+Difference: 3.502143800654389e-10
+
